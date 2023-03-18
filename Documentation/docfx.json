@@ -62,7 +62,7 @@
             }
         ],
         "sitemap": {
-            "baseUrl": "https://kevinreilhac.github.io/MyTestProject",
+            "baseUrl": "https://KevinReilhac.github.io/MyTestProject",
             "changefreq": "weekly",
             "fileOptions": {
                 "api/*": {
